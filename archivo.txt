@@ -2,3 +2,4 @@ Segundo archivo en GitHub
 Esta es una modificacion en Git HUb con el editor, a la que hecemos un commit directo
 Añadimos una modificacion desde SourceTree
 
+linea desde consola
