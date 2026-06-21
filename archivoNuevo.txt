@@ -1,3 +1,5 @@
 Nuevo desarrollo
 nueva linea
 linea conflictiva V2
+Actividades desde editor visual:
+Linea bugfix
