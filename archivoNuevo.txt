@@ -4,4 +4,4 @@ linea conflictiva V2
 Actividades desde editor visual:
 Linea bugfix
 Nueva linea de desarrollo
-
+Otro cambio desde IntelliJ
