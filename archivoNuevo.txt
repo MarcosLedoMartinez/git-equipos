@@ -1,5 +1,10 @@
 Nuevo desarrollo
 nueva linea
 linea conflictiva V2
+<<<<<<< .merge_file_rWRhHw
 Actividades desde editor visual:
 Linea bugfix
+=======
+Practica con editor visual:
+Nueva linea de desarrollo
+>>>>>>> .merge_file_TC27aq
