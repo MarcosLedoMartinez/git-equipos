@@ -1,3 +1,5 @@
 Nuevo desarrollo
 nueva linea
 linea conflictiva V2
+Practica con editor visual:
+Nueva linea de desarrollo
