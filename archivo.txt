@@ -1,6 +1,7 @@
 Segundo archivo en GitHub
-Esta es una modificacion en Git HUb con el editor, a la que hecemos un commit directo
-Añadimos una modificacion desde SourceTree
+Esta es una modificación en GitHUb con el editor, a la que hacemos un commit directo
+Añadimos una modificación desde SourceTree
 
 linea desde consola
-
+Practica desde editor visual:
+Linea main
